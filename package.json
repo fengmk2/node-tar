@@ -1,8 +1,11 @@
 {
   "author": "GitHub Inc.",
-  "name": "tar",
+  "name": "@fengmk2/tar",
   "description": "tar for node",
   "version": "6.2.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/isaacs/node-tar.git"
